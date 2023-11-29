@@ -10,3 +10,6 @@ EE8608_red_wine_regression_DEAP w Cloud Deployment.ipyt - Final submission with 
 Youtube Video on Project:
 https://youtu.be/X_uwqRmWIRQ
 
+
+Literature Review.zip - Literature of previous studies and their summaries
+
